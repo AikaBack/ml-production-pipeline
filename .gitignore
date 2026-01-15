@@ -1,0 +1,11 @@
+venv/
+airflow_home/
+mlruns/
+mlflow.db
+artifacts/
+data/*.csv
+logs/*.csv
+.env
+__pycache__/
+*.log
+*.pkl
